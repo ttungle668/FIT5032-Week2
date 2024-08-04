@@ -10,6 +10,7 @@ import JSONLab from './components/JSON.vue' // Import JSON component
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
+      <p>This is my GitHub Repo: [https://github.com/ttungle668/FIT5032-Week2]</p>
     </div>
   </header>
 
