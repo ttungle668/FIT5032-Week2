@@ -1,7 +1,8 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
-import JSONLab from './components/JSON.vue' // Import JSON component
+import JSONLab from './components/JSON.vue' 
+import Form from './components/Form.vue'
 </script>
 
 <template>
