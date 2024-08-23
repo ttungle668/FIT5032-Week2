@@ -18,6 +18,7 @@ import Form from './components/Form.vue'
   <main>
     <TheWelcome />
     <JSONLab /> <!-- Add JSON component -->
+    <Form />
   </main>
 </template>
 
